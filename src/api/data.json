@@ -1,0 +1,312 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "The Force was strong with him",
+      "tags": [
+        "jedi",
+        "sith"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Mastering the ways of the Force",
+      "tags": [
+        "jedi",
+        "force",
+        "lightsaber"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Observing the galaxy as it burned",
+      "tags": [
+        "force",
+        "magical",
+        "sith"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Craving a Womp Rat candy bar",
+      "tags": [
+        "mystery",
+        "galactic"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "A disturbance in the Force",
+      "tags": [
+        "sith",
+        "mystery",
+        "love"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Lost in the galaxy far, far away",
+      "tags": [
+        "rebel",
+        "classic"
+      ]
+    },
+    {
+      "id": 7,
+      "title": "This is the way",
+      "tags": [
+        "mandalorian",
+        "sith"
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Cooking with Yobacca on an open fire",
+      "tags": [
+        "galactic"
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Unveiling the secrets of the Force",
+      "tags": [
+        "jedi",
+        "magical"
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Escape through hyperspace",
+      "tags": [
+        "rebel",
+        "magical",
+        "galactic"
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Not yet time to activate the Death Star",
+      "tags": [
+        "sith",
+        "galactic"
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Aware of the dark side's temptations",
+      "tags": [
+        "love",
+        "sith"
+      ]
+    },
+    {
+      "id": 13,
+      "title": "Dreaming of lightsaber rainbow colors",
+      "tags": [
+        "mystery",
+        "classic",
+        "jedi"
+      ]
+    },
+    {
+      "id": 14,
+      "title": "The holocron was empty",
+      "tags": [
+        "mystery",
+        "galactic",
+        "love"
+      ]
+    },
+    {
+      "id": 15,
+      "title": "Ancient trees on Endor",
+      "tags": [
+        "rebel",
+        "force",
+        "sith"
+      ]
+    },
+    {
+      "id": 16,
+      "title": "The Jedi Code in the Statton house",
+      "tags": [
+        "jedi",
+        "classic"
+      ]
+    },
+    {
+      "id": 17,
+      "title": "Lightspeed to Tatooine",
+      "tags": [
+        "sith",
+        "mandalorian",
+        "galactic"
+      ]
+    },
+    {
+      "id": 18,
+      "title": "Comparing life in the galaxy",
+      "tags": [
+        "rebel",
+        "jedi",
+        "love"
+      ]
+    },
+    {
+      "id": 19,
+      "title": "Clear skies after the Battle of Hoth",
+      "tags": [
+        "mystery",
+        "galactic",
+        "magical"
+      ]
+    },
+    {
+      "id": 20,
+      "title": "Lost Jedi texts in the archives",
+      "tags": [
+        "classic",
+        "jedi"
+      ]
+    },
+    {
+      "id": 21,
+      "title": "Descending to the Death Star's core",
+      "tags": [
+        "jedi"
+      ]
+    },
+    {
+      "id": 22,
+      "title": "Deja vu on Jakku",
+      "tags": [
+        "classic",
+        "love",
+        "force"
+      ]
+    },
+    {
+      "id": 23,
+      "title": "Teaching the art of credit acquisition",
+      "tags": [
+        "sith",
+        "galactic"
+      ]
+    },
+    {
+      "id": 24,
+      "title": "C-3PO disapproves with a click",
+      "tags": [
+        "sith",
+        "love"
+      ]
+    },
+    {
+      "id": 25,
+      "title": "Lightsaber contortions in battle",
+      "tags": [
+        "jedi",
+        "galactic",
+        "classic"
+      ]
+    },
+    {
+      "id": 26,
+      "title": "Waiting for the Millennium Falcon's number to be called",
+      "tags": [
+        "jedi",
+        "mystery",
+        "sith"
+      ]
+    },
+    {
+      "id": 27,
+      "title": "Ten more parsecs to go",
+      "tags": [
+        "mystery",
+        "classic",
+        "love"
+      ]
+    },
+    {
+      "id": 28,
+      "title": "Living by the Jedi Code",
+      "tags": [
+        "sith",
+        "love"
+      ]
+    },
+    {
+      "id": 29,
+      "title": "The droid in the corner",
+      "tags": [
+        "mystery"
+      ]
+    },
+    {
+      "id": 30,
+      "title": "Troubles in the Mos Eisley cantina",
+      "tags": [
+        "love",
+        "galactic"
+      ]
+    },
+    {
+      "id": 31,
+      "title": "asdasdasd",
+      "tags": [
+        "sith",
+        "galactic"
+      ]
+    },
+    {
+      "id": 32,
+      "title": "dd",
+      "tags": [
+        "rebel",
+        "mystery"
+      ]
+    },
+    {
+      "id": 33,
+      "title": "wwww",
+      "tags": [
+        "galactic"
+      ]
+    },
+    {
+      "id": 34,
+      "title": "ssss",
+      "tags": [
+        "magical"
+      ]
+    },
+    {
+      "id": 35,
+      "title": "s",
+      "tags": [
+        "rebel"
+      ]
+    },
+    {
+      "id": 36,
+      "title": "d",
+      "tags": [
+        "magical"
+      ]
+    }
+  ],
+  "tags": [
+    "jedi",
+    "sith",
+    "galactic",
+    "rebel",
+    "mystery",
+    "love",
+    "magical",
+    "classic",
+    "force",
+    "lightsaber",
+    "mandalorian"
+  ]
+}
