@@ -39,11 +39,15 @@ const PostsList = () => {
         isError: isPostError
     } = useMutation({
         mutationFn : addPost,
-        onMutate: () => {},
+        onMutate: async () => {
+            await queryClient.cancelQueries({
+                queryKey: ["posts"],
+                exact: true
+            });
+        },
         onSuccess: () => {
             queryClient.invalidateQueries({
                 queryKey: ["posts"],
-                exact: true,
             });
         },
         onError: () => {},
